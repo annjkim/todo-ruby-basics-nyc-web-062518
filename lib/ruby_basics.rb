@@ -7,7 +7,7 @@ def assign_variable(value)
 end
 
 def argue(disagree)
-  return disagree "no"
+  return disagree
 end
 
 def greeting(greeting, name)
